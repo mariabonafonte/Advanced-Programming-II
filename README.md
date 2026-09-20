@@ -1,15 +1,16 @@
-Advanced Programming II
+# Advanced Programming II
 
 Repository containing my projects and coursework for Advanced Programming II at the University of Málaga (UMA).
 
-📚 Course
+### 📚 Course
 
 * Degree: Software Engineering
 * University: Universidad de Málaga (UMA)
+* Year: 2nd Year
 * Course: Advanced Programming II
-* Academic Year: 2026/2027
+* Academic Year: 2025/2026
 
-📂 Projects
+### 📂 Projects
 
 This repository will contain the different projects and assignments developed throughout the course.
 The main topics covered include:
@@ -25,7 +26,7 @@ Project 3	GUI	— Last project
 
 More projects will be added as the course progresses.
 
-🛠️ Technologies
+### 🛠️ Technologies
 
 Depending on the project, this repository may include:
 
@@ -35,7 +36,7 @@ Depending on the project, this repository may include:
 * Semaphores
 * GUI development
 
-👩‍💻 Author
+### 👩‍💻 Author
 
 María Bonafonte Sánchez
 
