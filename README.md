@@ -10,7 +10,7 @@ Repository containing my projects and coursework for Advanced Programming II at 
 * Course: Advanced Programming II
 * Academic Year: 2025/2026
 
-### 📂 Repository Contents
+### 📂 CourseWork
 
 * 🧪 Lab Exercises:
   
@@ -19,9 +19,8 @@ Repository containing my projects and coursework for Advanced Programming II at 
   📁 [Lab Exercises](./Lab%20Exercises)
 
 * 🖥️ GUI:
-  
   This folder contains the GUI project developed as part of the course.
-
+  
   📁[GUI_MariaBonafonte](./GUI_MariaBonafonte)
 
 * 📝 Past Exam Papers:
@@ -39,15 +38,6 @@ The coursework covers topics related to:
 * Synchronization
 * Graphical User Interfaces (GUI)
 * Concurrent programming
-
-
-### 🛠️ Technologies
-
-Depending on the project, this repository may include:
-
-* Scala
-* Java
-* GUI development
 
 ### 👩‍💻 Author
 
