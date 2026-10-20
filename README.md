@@ -12,22 +12,18 @@ Repository containing my projects and coursework for Advanced Programming II at 
 
 ### 📂 CourseWork
 
-* 🧪 Lab Exercises:
-  
-  This folder contains the different practical exercises completed throughout the course.
 
-  📁 [Lab Exercises](./Lab%20Exercises)
+#### Lab Exercises:
+  * 📁 [Lab Exercises](./Lab%20Exercises)
+This folder contains the different practical exercises completed throughout the course.
 
-* 🖥️ GUI:
-  This folder contains the GUI project developed as part of the course.
-  
-  📁[GUI_MariaBonafonte](./GUI_MariaBonafonte)
+#### GUI Project:
+  * 📁[GUI_MariaBonafonte](./GUI_MariaBonafonte)
 
-* 📝 Past Exam Papers:
-  
+#### Past Exam Papers:
+  * 📁[Past Exam Papers](./Past%20Exam%20Papers)
   Collection of exam papers from previous academic years, used for practice and revision.
 
-  📁[Past Exam Papers](./Past%20Exam%20Papers)
 
 ### 🧠 Topics
 
